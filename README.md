@@ -1,6 +1,3 @@
-# cmamsterdam2019
-Papers and resources for "Think Local" talk from Codemotion Amsterdam 2019.
-
 # Think Local: Reducing Coordination when Designing Distributed Systems
 
 Codemtion Amsterdam 2019 talk page: https://events.codemotion.com/conferences/amsterdam/2019/wp-content/themes/event/detail-talk.php?detail=11324
